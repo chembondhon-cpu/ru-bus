@@ -1,0 +1,6 @@
+{
+  "name": "Rajshahi University Bus Schedule",
+  "description": "A comprehensive bus schedule and route management application for Rajshahi University, featuring route searching, favorite routes, and administrative controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
